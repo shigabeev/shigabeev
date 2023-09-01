@@ -5,5 +5,5 @@ I am a Machine learning engineer with focus on Speech technologies such as speak
 - 🔭 I’m currently working on video translation app langswap.app. We are using cutting-edge technologies in text-to-speech, automatic speech recognition and translation to build it.
 - 💬 Ask me about Machine learning and voice technology in particular. 
 - 📫 How to reach me: @frappuccino_o pretty much everywhere.https://t.me/frappuccino_o,
-- 💌 My telegram channel: https://t.me/voicestuff
+- 💌 My telegram channel about voice tech: https://t.me/voicestuff
 - 📸 My Instagram https://instagram.com/frappuccino_o
